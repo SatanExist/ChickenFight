@@ -15,7 +15,7 @@
 
 1.  **Клонирование Репозитория:**
     ```bash
-    git clone https://github.com/SatanExist/MVVM.git
+    git clone https://github.com/SatanExist/ChickenFight.git
     ```
 2.  **Генерация Файлов Visual Studio (.sln):**
     * В папке проекта найдите файл `ChickenFight.uproject`.
@@ -25,3 +25,10 @@
     * Установите конфигурацию: **`Development Editor`** | **`Win64`**.
     * Соберите решение: **`Build`** -> **`Build Solution`**.
 4.  **Запуск:** После успешной сборки откройте проект двойным кликом по файлу `ChickenFight.uproject`.
+
+  ## Movement
+
+  1. WASD - перемещение
+  2. Цифра 1 - взять/убрать оружие в руках.
+  3. Shift - Рывок.
+  4. Пробел - удар оружием.
